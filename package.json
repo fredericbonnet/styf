@@ -1,0 +1,18 @@
+{
+  "name": "styf",
+  "version": "0.0.1",
+  "description": "Stop Touching Your Face!",
+  "author": "Frédéric Bonnet <fredericbonnet@free.fr>",
+  "license": "BSD-3-Clause",
+  "homepage": "https://styf.netlify.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredericbonnet/styf.git"
+  },
+  "scripts": {
+    "start": "http-server www"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
