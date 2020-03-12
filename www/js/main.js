@@ -88,7 +88,7 @@ function detectHand(video, predictions) {
       //   console.error("Stop Touching Your Face!");
       if (canNotify) {
         const notification = new Notification("Stop Touching Your Face!", {
-          body: "Fight the COVID-9 !",
+          body: "Fight the COVID-19 !",
           tag: "styf"
         });
         setTimeout(() => notification.close(), 1000);

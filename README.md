@@ -2,7 +2,7 @@
 
 Compulsive face touching is a major factor of virus propagation.
 This app displays a notification anytime it detects hand movements
-around your face. Help stop the propagation of COVID-9!
+around your face. Help stop the propagation of COVID-19!
 
 ## Usage
 
